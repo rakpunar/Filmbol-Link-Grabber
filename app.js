@@ -5,6 +5,7 @@
 // @description  Sayfadaki down-buttons elementlerinin href değerlerini toplayıp kopyalama imkanı sunar.
 // @author       rakpunar
 // @match        https://forum.filmbol.org/*
+// @icon         https://forum.filmbol.org/logo.png
 // @grant        none
 // ==/UserScript==
 
